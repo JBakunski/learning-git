@@ -21,3 +21,5 @@ print("New information")
 print("Add new feature on branch 'add_feature_x'")
 
 print("First commit added")
+
+print("Second commit added")
