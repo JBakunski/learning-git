@@ -17,3 +17,5 @@ print(f"W sumie kupuję {number_of_items} produktów.".upper())
 print("'Hiszpańska inkwizycja', to najlepszy skecz grupy Monty Pythona")
 
 print("New information")
+
+print("Add new feature on branch 'add_feature_x'")
