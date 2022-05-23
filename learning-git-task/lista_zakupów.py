@@ -15,3 +15,5 @@ print(f"W sumie kupuję {number_of_items} produktów.")
 # Dodana modyfikacja
 
 print("'Hiszpańska inkwizycja', to najlepszy skecz grupy Monty Pythona")
+
+print("New information")
