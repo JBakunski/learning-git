@@ -19,3 +19,5 @@ print("'Hiszpańska inkwizycja', to najlepszy skecz grupy Monty Pythona")
 print("New information")
 
 print("Add new feature on branch 'add_feature_x'")
+
+print("First commit added")
