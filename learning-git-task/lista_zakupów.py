@@ -12,14 +12,4 @@ for k, v in shopping_list.items():
 
 print(f"W sumie kupuję {number_of_items} produktów.".upper())
 
-# Dodana modyfikacja
-
-print("'Hiszpańska inkwizycja', to najlepszy skecz grupy Monty Pythona")
-
-print("New information")
-
-print("Add new feature on branch 'add_feature_x'")
-
-print("First commit added")
-
-print("Second commit added")
+print("Pozdrowienia dla mentora :)")
